@@ -1,5 +1,6 @@
 <?php
 
+
 echo date("d-m-Y") ." ".  date("h:i:sa"). "<br>";
 
 for($i=1; $i<=6; $i++) {
